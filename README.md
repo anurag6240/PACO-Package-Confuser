@@ -47,19 +47,28 @@ It scans public GitHub repositories and validates dependencies directly against 
 
 ---
 
-# 🆕 What's New in v3.1
 
-### 🔥 Smart Ecosystem Auto-Detection
-PACO automatically detects ecosystem based on the current page:
+# 🆕 What’s New in v3.1
+
+PACO has evolved significantly from its initial release.
+
+## 🔥 Smart Ecosystem Auto-Detection
+
+PACO now automatically detects ecosystem based on:
 
 - `Gemfile` → Ruby  
 - `package.json` → NPM  
 - `requirements.txt` → Python  
 
 Works on:
-- Repository pages
-- Blob/file pages
-- GitHub search result pages
+
+- Repository pages  
+- Blob/file pages  
+- GitHub search result pages  
+
+Detection priority:
+1. URL-based detection  
+2. Repository file fallback  
 
 ---
 
