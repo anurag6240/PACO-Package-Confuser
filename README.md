@@ -231,7 +231,7 @@ paco/
 
 ## 👨‍💻 Authors
 
-* **Anurag Kumar** – [@zeusgodyt](https://github.com/anurag6240)
+* **Anurag Kumar** – [@anurag6240](https://github.com/anurag6240)
 * **Sidhanta Palei** – [@r00tSid](https://github.com/r00tSid)
 
 ---
