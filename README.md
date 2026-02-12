@@ -34,6 +34,23 @@ Security Researcher | Bug Bounty Hunter
 
 ---
 
+# ⚠️ What is Dependency Confusion?
+
+Dependency Confusion (Substitution Attack) is a supply-chain vulnerability where an attacker publishes a malicious package with the same name as an internal/private dependency.
+
+If the build system prefers public registries, it may install the malicious package.
+
+This can result in:
+
+- Remote Code Execution
+- Data Exfiltration
+- CI/CD Compromise
+- Supply-Chain Attacks
+
+PACO helps identify such risks early.
+
+---
+
 # 🚀 What is PACO?
 
 **PACO (Package Confuser)** is a Chrome Extension designed to help developers and security researchers identify:
@@ -161,23 +178,6 @@ Ecosystem detection is now context-aware and URL-driven.
 - Deduplicates dependencies
 - Handles concurrency efficiently
 - Provides clean output
-
----
-
-# ⚠️ What is Dependency Confusion?
-
-Dependency Confusion (Substitution Attack) is a supply-chain vulnerability where an attacker publishes a malicious package with the same name as an internal/private dependency.
-
-If the build system prefers public registries, it may install the malicious package.
-
-This can result in:
-
-- Remote Code Execution
-- Data Exfiltration
-- CI/CD Compromise
-- Supply-Chain Attacks
-
-PACO helps identify such risks early.
 
 ---
 
