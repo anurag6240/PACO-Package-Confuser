@@ -22,7 +22,7 @@ Lightweight • Fast • Security-Focused • Zero Tracking
 
 <p align="center">
   <img src="icons/3.1.png" alt="Extension Screenshot" width="240">
-  <img src="icons/demo.gif" alt="Demo Video" width="620">
+  <img src="icons/demo.gif" alt="Demo Video" width="720">
 </p>
 
 ## 👨‍🔬 Tested By
