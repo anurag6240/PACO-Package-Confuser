@@ -20,17 +20,10 @@ Lightweight • Fast • Security-Focused • Zero Tracking
 
 ## 📽️ Live Demo
 
-<table align="center">
-<tr>
-<td align="center">
-<img src="icons/3.1.png" alt="Screenshot" width="400">
-</td>
-<td align="center">
-<img src="icons/demo.gif" alt="Live Demo" width="400">
-</td>
-</tr>
-</table>
----
+<p align="center">
+  <img src="icons/3.1.png" alt="Extension Screenshot" width="260">
+  <img src="icons/demo.gif" alt="Demo Video" width="520">
+</p>
 
 ## 👨‍🔬 Tested By
 
