@@ -55,7 +55,7 @@ PACO has been used to identify **real dependency confusion vulnerabilities** in 
 Findings discovered using PACO resulted in the following rewards:
 
 - 💰 **$625 – Cloudflare Bug Bounty**
-- 💰 **$347 – Cloudflare Bug Bounty**
+- 💰 **$350 – Cloudflare Bug Bounty**
 
 
 These findings demonstrate how **supply-chain vulnerabilities still exist in modern software ecosystems**.
