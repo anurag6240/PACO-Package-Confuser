@@ -38,7 +38,7 @@ PACO scanning a GitHub repository and detecting an unpublished dependency that c
 
 <p align="center">
   <img src="icons/3.1.png" alt="Extension Screenshot" width="240">
-  <img src="icons/demo.gif" alt="Demo Video" width="720">
+  <img src="icons/paco-demo.gif" alt="Demo Video" width="720">
 </p>
 
 ---
