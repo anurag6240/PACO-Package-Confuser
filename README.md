@@ -64,6 +64,17 @@ PACO helps security researchers and developers identify such risks before attack
 
 ---
 
+## 📢 LinkedIn Post
+
+We recently shared PACO v3.1 with the developer and security community on LinkedIn.
+
+🔗 https://www.linkedin.com/feed/update/urn:li:activity:7435956983771357184/
+
+If you find PACO useful:
+⭐ Star the repo
+🔁 Share the post
+🛡️ Try PACO on GitHub repositories
+
 ## 👨‍🔬 Tested By
 
 **Sidhanta Palei (@r00tSid)**  
